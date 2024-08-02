@@ -1,0 +1,208 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <D:/NIST/4D_PHS_x4.txt>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+ 92 108 109  83 110  97 105 113  81 102  0.233162    993/1000    Frequency
+535 179  86  64  49  31  23  18  12   3  0.000000 *  838/1000 *  BlockFrequency
+ 99  99 109 106 100  77 104 111 106  89  0.399442    989/1000    CumulativeSums
+ 95  99 122 107  95 100  96  90 103  93  0.576961    991/1000    CumulativeSums
+113 101  97  92  95  99 108  97 107  91  0.858002    991/1000    Runs
+999   1   0   0   0   0   0   0   0   0  0.000000 *    6/1000 *  LongestRun
+ 91 104  92  99  92  89 112 117 106  98  0.514124    988/1000    Rank
+115 114  90  95  88  86 109  93 110 100  0.264901    986/1000    FFT
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+939  39   6   7   5   2   2   0   0   0  0.000000 *  246/1000 *  NonOverlappingTemplate
+155 123 101 113  88  91 102  84  85  58  0.000000 *  974/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+919  42  17   8   8   0   4   2   0   0  0.000000 *  299/1000 *  NonOverlappingTemplate
+975  18   4   1   1   0   1   0   0   0  0.000000 *  123/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+406 158 106  77  64  41  47  40  35  26  0.000000 *  874/1000 *  NonOverlappingTemplate
+210 135 125 102  95  99  62  70  55  47  0.000000 *  969/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *    9/1000 *  NonOverlappingTemplate
+277 147 130  82  92  87  51  41  57  36  0.000000 *  930/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+865  63  27  15  10   8   4   4   1   3  0.000000 *  429/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *   17/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+122 101 117 103 102 106  82  96  94  77  0.044508    986/1000    NonOverlappingTemplate
+247 122 113  91  97  69  77  70  73  41  0.000000 *  943/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+914  46  24   6   5   2   3   0   0   0  0.000000 *  339/1000 *  NonOverlappingTemplate
+980  14   2   1   1   2   0   0   0   0  0.000000 *  139/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *    7/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+161 119  97 105 104  93  89  69  88  75  0.000000 *  975/1000 *  NonOverlappingTemplate
+602 131  83  59  44  30  16  18  13   4  0.000000 *  735/1000 *  NonOverlappingTemplate
+998   2   0   0   0   0   0   0   0   0  0.000000 *   29/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+986   8   5   1   0   0   0   0   0   0  0.000000 *   70/1000 *  NonOverlappingTemplate
+500 163  97  65  41  33  35  29  25  12  0.000000 *  826/1000 *  NonOverlappingTemplate
+905  52  20   9   7   2   2   3   0   0  0.000000 *  389/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+451 143 101  77  56  54  38  37  20  23  0.000000 *  868/1000 *  NonOverlappingTemplate
+226 152 115 102  94  74  69  66  64  38  0.000000 *  963/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    4/1000 *  NonOverlappingTemplate
+976  14   1   3   2   2   1   1   0   0  0.000000 *  124/1000 *  NonOverlappingTemplate
+984  11   4   0   1   0   0   0   0   0  0.000000 *  151/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+635 129  83  55  32  19  21  12  10   4  0.000000 *  752/1000 *  NonOverlappingTemplate
+979  17   1   0   3   0   0   0   0   0  0.000000 *  137/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *   14/1000 *  NonOverlappingTemplate
+ 94 100 111 123  95  85  85  99 102 106  0.212184    990/1000    NonOverlappingTemplate
+402 150 112  77  82  58  48  32  27  12  0.000000 *  888/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+744 115  53  31  23  19   4   5   4   2  0.000000 *  592/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    7/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+130 127 112  98  98  94  92  87 106  56  0.000007 *  991/1000    NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+843  79  34  19   8   8   4   3   1   1  0.000000 *  474/1000 *  NonOverlappingTemplate
+752 117  55  29  12  14   9   9   2   1  0.000000 *  614/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+393 189  96  90  64  45  43  30  31  19  0.000000 *  909/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+972  17   6   1   4   0   0   0   0   0  0.000000 *  141/1000 *  NonOverlappingTemplate
+947  30  13   4   4   1   0   1   0   0  0.000000 *  239/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+118 105 101 116  98 101  91  86  98  86  0.284024    988/1000    NonOverlappingTemplate
+977  16   2   2   1   1   1   0   0   0  0.000000 *  160/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+215 153 101  88  95  86  89  60  64  49  0.000000 *  971/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+889  56  30  11   7   5   1   0   1   0  0.000000 *  388/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+577 150  87  50  41  30  22  18  14  11  0.000000 *  752/1000 *  NonOverlappingTemplate
+891  54  20  19   5   5   4   1   0   1  0.000000 *  377/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+215 155 103 125  88  81  73  56  54  50  0.000000 *  963/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+244 131 128  87 100  78  73  62  52  45  0.000000 *  965/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+894  44  20  16  11   8   3   3   0   1  0.000000 *  345/1000 *  NonOverlappingTemplate
+623 146  74  45  30  29  20   9  16   8  0.000000 *  729/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+912  47  19  10   3   5   2   2   0   0  0.000000 *  355/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+195 147 121 114  92  94  80  62  43  52  0.000000 *  972/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+978  10   4   2   3   3   0   0   0   0  0.000000 *  126/1000 *  NonOverlappingTemplate
+111 106 116  93 101  99  91 104  93  86  0.528111    985/1000    NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+955  27   4   7   3   1   2   1   0   0  0.000000 *  205/1000 *  NonOverlappingTemplate
+972  21   2   2   2   0   0   0   1   0  0.000000 *  132/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+399 169 114  84  67  55  34  36  26  16  0.000000 *  896/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+788  94  49  26  21   9   6   2   3   2  0.000000 *  591/1000 *  NonOverlappingTemplate
+832  83  39  19  10  10   3   2   0   2  0.000000 *  517/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    2/1000 *  NonOverlappingTemplate
+168 113  94 122 105 100  85  74  65  74  0.000000 *  980/1000    NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    4/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+769 107  53  24  22  11   7   3   4   0  0.000000 *  590/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+406 177 105  94  73  40  38  29  25  13  0.000000 *  898/1000 *  NonOverlappingTemplate
+110 110  94  96  91 100 102  99 110  88  0.757790    988/1000    NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *   14/1000 *  NonOverlappingTemplate
+973  16   7   2   2   0   0   0   0   0  0.000000 *  147/1000 *  NonOverlappingTemplate
+594 152  73  50  46  28  25  14  14   4  0.000000 *  782/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+981  12   4   1   0   2   0   0   0   0  0.000000 *  127/1000 *  NonOverlappingTemplate
+972  17   2   3   4   0   1   0   1   0  0.000000 *  143/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    3/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+212 126 122 111  90  98  79  62  54  46  0.000000 *  967/1000 *  NonOverlappingTemplate
+445 165 113  62  57  40  41  28  27  22  0.000000 *  848/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+904  60  20   6   1   2   4   1   1   1  0.000000 *  354/1000 *  NonOverlappingTemplate
+533 168  69  60  43  46  35  19  17  10  0.000000 *  811/1000 *  NonOverlappingTemplate
+987   8   3   1   1   0   0   0   0   0  0.000000 *   76/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    2/1000 *  NonOverlappingTemplate
+997   3   0   0   0   0   0   0   0   0  0.000000 *   24/1000 *  NonOverlappingTemplate
+632 123  71  57  36  26  19  17  14   5  0.000000 *  733/1000 *  NonOverlappingTemplate
+199 113 103  92 102  95  75  77  69  75  0.000000 *  965/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    3/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    2/1000 *  NonOverlappingTemplate
+970  16   8   3   1   0   1   1   0   0  0.000000 *  146/1000 *  NonOverlappingTemplate
+935  38  14   7   3   2   1   0   0   0  0.000000 *  322/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+234 137 110  99  88  81  77  68  58  48  0.000000 *  952/1000 *  NonOverlappingTemplate
+127  93 109 114  76  87  97 102  94 101  0.029796    980/1000    NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *   14/1000 *  NonOverlappingTemplate
+862  51  39  19  15   8   4   1   1   0  0.000000 *  410/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  NonOverlappingTemplate
+292 138  99  97  81  90  59  60  55  29  0.000000 *  937/1000 *  NonOverlappingTemplate
+999   1   0   0   0   0   0   0   0   0  0.000000 *    5/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+241 123 122  95  88  92  66  68  54  51  0.000000 *  953/1000 *  NonOverlappingTemplate
+391 144 105  97  60  48  49  54  31  21  0.000000 *  886/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+986   8   3   1   0   1   1   0   0   0  0.000000 *  111/1000 *  NonOverlappingTemplate
+920  47  17   7   5   4   0   0   0   0  0.000000 *  299/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+157  97 119 111  93  92  79 104  80  68  0.000000 *  982/1000    NonOverlappingTemplate
+946  27  12   7   4   2   2   0   0   0  0.000000 *  246/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  NonOverlappingTemplate
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    1/1000 *  OverlappingTemplate
+144 123  80  98  99  90 101  86  86  93  0.000085 *  983/1000    Universal
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  ApproximateEntropy
+ 61  66  58  60  68  52  58  79  59  53  0.411957    609/614     RandomExcursions
+ 74  63  73  55  67  51  52  70  57  52  0.198923    604/614     RandomExcursions
+ 61  68  52  52  61  65  69  63  70  53  0.614942    608/614     RandomExcursions
+ 62  65  57  61  71  52  54  62  64  66  0.844195    611/614     RandomExcursions
+ 63  59  55  56  70  52  76  67  65  51  0.353146    606/614     RandomExcursions
+ 65  64  62  58  60  62  67  53  61  62  0.986609    607/614     RandomExcursions
+ 67  59  61  58  43  74  60  62  62  68  0.372134    608/614     RandomExcursions
+ 54  60  68  78  52  69  49  67  49  68  0.095069    607/614     RandomExcursions
+ 56  62  52  62  64  56  73  57  73  59  0.597926    608/614     RandomExcursionsVariant
+ 46  72  61  62  64  66  55  59  71  58  0.466509    607/614     RandomExcursionsVariant
+ 55  55  63  77  54  65  62  60  58  65  0.642240    609/614     RandomExcursionsVariant
+ 50  70  50  66  66  53  72  71  58  58  0.270132    608/614     RandomExcursionsVariant
+ 56  50  62  69  63  67  65  59  65  58  0.846975    603/614     RandomExcursionsVariant
+ 56  53  71  63  69  66  57  57  56  66  0.743195    608/614     RandomExcursionsVariant
+ 59  53  70  55  68  62  62  64  66  55  0.832877    608/614     RandomExcursionsVariant
+ 60  58  58  66  64  60  66  55  62  65  0.988602    608/614     RandomExcursionsVariant
+ 73  58  57  60  55  57  71  52  58  73  0.426750    608/614     RandomExcursionsVariant
+ 78  69  45  59  60  67  66  60  48  62  0.127067    606/614     RandomExcursionsVariant
+ 65  67  61  67  69  48  69  50  58  60  0.488630    606/614     RandomExcursionsVariant
+ 60  66  63  62  53  67  70  62  48  63  0.706708    607/614     RandomExcursionsVariant
+ 57  77  58  65  58  52  63  61  55  68  0.554086    609/614     RandomExcursionsVariant
+ 67  61  56  70  62  52  61  63  57  65  0.893316    610/614     RandomExcursionsVariant
+ 60  80  47  64  55  65  68  57  55  63  0.220804    609/614     RandomExcursionsVariant
+ 52  82  69  60  53  56  60  65  57  60  0.234413    608/614     RandomExcursionsVariant
+ 56  69  68  68  59  51  53  61  58  71  0.574229    608/614     RandomExcursionsVariant
+ 56  56  80  67  58  60  58  63  55  61  0.504704    608/614     RandomExcursionsVariant
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Serial
+1000   0   0   0   0   0   0   0   0   0  0.000000 *    0/1000 *  Serial
+ 96  95 100 113  92 101  94  98  96 115  0.783019    989/1000    LinearComplexity
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 980 for a
+sample size = 1000 binary sequences.
+
+The minimum pass rate for the random excursion (variant) test
+is approximately = 600 for a sample size = 614 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
